@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: shiruto.tech
+Token: a78bbc028274c86365d3d7514dd792aa6ddd71eebfe95a45da0df351320c9087

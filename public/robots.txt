@@ -1,6 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: *
-Disallow: /* .png$
-Crawl-delay: 15
+Disallow: /search
+Allow: /
 Sitemap: https://www.shiruto.tech/sitemap.xml
